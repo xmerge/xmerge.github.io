@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as r,b as n,a as e}from"./app-508d0963.js";const c={},s=e("p",null,[e("strong",null,"云票高并发抢票系统")],-1),_=e("p",null,"集成主流后端框架。作为2024实习春招项目记录。",-1);function l(a,m){return t(),r("div",null,[s,_,n(" more ")])}const i=o(c,[["render",l],["__file","01-befre.html.vue"]]);export{i as default};

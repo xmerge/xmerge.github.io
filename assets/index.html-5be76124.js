@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{r as t,o as a,c as n,b as c,e as r,a as s}from"./app-508d0963.js";const _={},l=s("p",null,"云票高并发抢票系统。",-1);function m(d,i){const e=t("AutoCatalog");return a(),n("div",null,[l,c(" more "),r(e)])}const u=o(_,[["render",m],["__file","index.html.vue"]]);export{u as default};
